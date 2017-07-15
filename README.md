@@ -1,6 +1,8 @@
 # avalanchesass_object_island
 Box off content.
 
+**ATTENTION:** This package is outdated, you can find the latest release under a new name: https://www.npmjs.com/package/@avalanche/object-island
+
 ## Install
 ```
 npm install avalanchesass_object_island --save
